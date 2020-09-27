@@ -1,0 +1,22 @@
+.Input {
+  display: flex;
+  width: 100%;
+  margin: 10px auto;
+  align-items: center;
+  height: 250px;
+}
+
+.InputTask {
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.InputTask input {
+  padding: 20px;
+}
+
+.InputTask .Button {
+  padding-left: 10px;
+  font-size: 25px;
+}
